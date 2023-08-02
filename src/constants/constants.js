@@ -40,7 +40,7 @@ export const projects = [
   {
     title: 'System Administrator',
     description: "Passionate system admin with extensive expertise in optimizing computer systems. Hands-on experience in installing, configuring, and maintaining OS for seamless functionality and robust security",
-    image: '/images/System_adm.png',
+    image: '/images/My project (10).png',
   tags: ['Microsoft Windows', 'MacOS', 'Linux in all Distros'],
     source: 'https://google.com',
     visit: 'https://google.com',
