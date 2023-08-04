@@ -11,8 +11,6 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
           <LinkItem href="tel:+234 907-476-8136">+234 907-476-8136</LinkItem>
-
-          <LinkItem href="tel:+234 702-510-8931">+234 702-510-8931</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
@@ -21,7 +19,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Sea Never Dries</Slogan>
+          <Slogan>It will always be better</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com">

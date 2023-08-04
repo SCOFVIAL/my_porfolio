@@ -11,7 +11,7 @@ const Hero = (props) => (
   <LeftSection>
     <SectionTitle main center >
       Hey<br />
-      I'm Scofvial
+      I'm Victor
     </SectionTitle>
     <SectionText>
 I am an aspiring individual with an unwavering enthusiasm for technology and a deep passion for software development. Currently studying Computer Science at Babcock University, I am fully immersed in the dynamic world of coding and constantly seeking opportunities to enhance my skills and knowledge.
